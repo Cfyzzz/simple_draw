@@ -31,6 +31,6 @@ setup(
     ],
     keywords='draw graphical primitives tutorial',
     install_requires=[
-        'pygame'
+        'kivy'
     ]
 )

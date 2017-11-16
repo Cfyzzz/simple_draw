@@ -12,8 +12,6 @@ import math
 import time
 from random import choice, randint
 
-import pygame
-import pygame.locals as pgl
 
 _is_inited = False
 _screen = None
